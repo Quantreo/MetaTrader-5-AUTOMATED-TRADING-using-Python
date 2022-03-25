@@ -1,1 +1,1 @@
-# MetaTrader-5-AUTOMATED-TRADING-using-Python-
+# MetaTrader-5-AUTOMATED-TRADING-using-Python
