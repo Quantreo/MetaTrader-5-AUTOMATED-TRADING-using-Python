@@ -21,8 +21,8 @@
 
 ### VPS / Install Windows in your mac
 
-VPS: https://billing.virmach.com/aff.php?aff=10381
+VPS: https://bit.ly/3IGHG8x
 
 BOOT CAMP MAC: https://www.youtube.com/watch?v=Hmm9Q-T0oTo
 
-Parrallels Desktop: https://www.parallels.com/fr/
+Parrallels Desktop: https://bit.ly/3LluXKd
