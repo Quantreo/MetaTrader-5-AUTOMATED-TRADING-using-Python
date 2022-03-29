@@ -25,4 +25,4 @@ VPS: https://bit.ly/3IGHG8x
 
 BOOT CAMP MAC: https://www.youtube.com/watch?v=Hmm9Q-T0oTo
 
-Parrallels Desktop: https://bit.ly/3LluXKd
+Parrallels Desktop: https://bit.ly/36St1Ka
