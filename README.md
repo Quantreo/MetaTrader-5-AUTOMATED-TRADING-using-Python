@@ -1,10 +1,10 @@
 # MetaTrader-5-AUTOMATED-TRADING-using-Python
 
-🇬🇧 Soon
+🇬🇧 https://www.udemy.com/course/metatrader-5-automated-trading-using-python-tutorial/?referralCode=9E20B45913B197DAE507
 
 
 <br>
-🇫🇷 Soon
+🇫🇷 Arrive bientôt
 
 <br>
 <br>
