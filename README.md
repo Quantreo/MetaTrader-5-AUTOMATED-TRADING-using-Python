@@ -4,7 +4,7 @@
 
 
 <br>
-🇫🇷 Arrive bientôt
+🇫🇷 https://www.udemy.com/course/trading-automatise-avec-metatrader-5-et-python-tutoriel/?referralCode=CB9FD42195FD08DBC3FD
 
 <br>
 <br>
